@@ -15,23 +15,22 @@ A categorized collection of useful Python libraries.
 * IO - [PyAudio](https://pypi.org/project/PyAudio/)
 * Format - [wave](https://docs.python.org/3/library/wave.html)
 
-## Cache
-
-* Memory - [cachetools](https://pypi.org/project/cachetools/)
-* External - [HermesCache](https://pypi.org/project/HermesCache/)
-
 ## Compression
 
 * Format - [ZipFile](https://docs.python.org/3/library/zipfile.html)
 
 ## Ease of life
 
+* Containers - [collections](https://docs.python.org/3/library/collections.htmla)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
+* Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
 * Keyboard - [keyboard](https://pypi.org/project/keyboard/)
-* Looping - [itertools](https://docs.python.org/3/library/itertools.html)
+* Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
+* Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
 * Paths - [pathlib](https://docs.python.org/3/library/pathlib.html)
 * System - [os](https://docs.python.org/3/library/os.html)
+* Type hinting - [typing](https://docs.python.org/3/library/typing.html)
 
 ## HTTP
 
@@ -40,6 +39,7 @@ A categorized collection of useful Python libraries.
 * Browser client - [selenium](https://pypi.org/project/selenium/)
 * Browser client - [pyppeteer](https://pypi.org/project/pyppeteer/)
 * Parsing - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+* Parsing - [lxml](https://pypi.org/project/lxml/)
 * Parsing - [idna](https://pypi.org/project/idna/)
 * Scraping - [Scrapy](https://pypi.org/project/Scrapy/)
 * Web app - [Django](https://pypi.org/project/Django/)
@@ -47,8 +47,8 @@ A categorized collection of useful Python libraries.
 
 ## Image
 
-* Conversion - [pdf2image](https://pypi.org/project/pdf2image/)
-* Conversion - [imgkit](https://pypi.org/project/imgkit/)
+* Format conversion - [pdf2image](https://pypi.org/project/pdf2image/)
+* Format conversion - [imgkit](https://pypi.org/project/imgkit/)
 * Processing - [scikit-image](https://pypi.org/project/scikit-image/)
 * Processing - [Pillow](https://pypi.org/project/Pillow/)
 
@@ -75,8 +75,11 @@ A categorized collection of useful Python libraries.
 
 ## Performance
 
+* Caching internal - [cachetools](https://pypi.org/project/cachetools/)
+* Caching external - [HermesCache](https://pypi.org/project/HermesCache/)
 * JIT - [numba](https://pypi.org/project/numba/)
-* Implementation - [PyPy](https://www.pypy.org/)
+* Measurement - [timeit](https://docs.python.org/3/library/timeit.html)
+* Python implementation - [PyPy](https://www.pypy.org/)
 
 ## Plotting
 
@@ -117,7 +120,10 @@ A categorized collection of useful Python libraries.
 * Argument parsing - [argparse](https://docs.python.org/3/library/argparse.html)
 * Colors - [colored](https://pypi.org/project/colored/)
 * Colors - [colorama](https://pypi.org/project/colorama/)
+* Figlets - [pyfiglet](https://pypi.org/project/pyfiglet/)
 * Progress bar - [tqdm](https://pypi.org/project/tqdm/)
+* Table - [prettytable](https://pypi.org/project/prettytable/)
+* Toolkit - [cli-ui](https://pypi.org/project/cli-ui/)
 
 ### GUI
 
