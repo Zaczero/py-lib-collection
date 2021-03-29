@@ -29,6 +29,7 @@ A categorized collection of useful Python libraries.
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
 * Paths - [pathlib](https://docs.python.org/3/library/pathlib.html)
+* Requirements - [pipreqs](https://pypi.org/project/pipreqs/)
 * System - [os](https://docs.python.org/3/library/os.html)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
 
@@ -72,11 +73,14 @@ A categorized collection of useful Python libraries.
 * Cryptography - [hashlib](https://docs.python.org/3/library/hashlib.html)
 * Cryptography - [pycrypto](https://pypi.org/project/pycrypto/)
 * Graphs - [networkx](https://pypi.org/project/networkx/)
+* Random - [random](https://docs.python.org/3/library/random.html)
+* Random - [secrets](https://docs.python.org/3/library/secrets.html)
 
 ## Performance
 
-* Caching internal - [cachetools](https://pypi.org/project/cachetools/)
-* Caching external - [HermesCache](https://pypi.org/project/HermesCache/)
+* Caching - [cachetools](https://pypi.org/project/cachetools/)
+* Caching - [HermesCache](https://pypi.org/project/HermesCache/)
+* Caching - [filecache](https://pypi.org/project/filecache/)
 * JIT - [numba](https://pypi.org/project/numba/)
 * Measurement - [timeit](https://docs.python.org/3/library/timeit.html)
 * Python implementation - [PyPy](https://www.pypy.org/)
