@@ -29,6 +29,7 @@ A categorized collection of useful Python libraries.
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
 * Paths - [pathlib](https://docs.python.org/3/library/pathlib.html)
+* Retry - [tenacity](https://pypi.org/project/tenacity/)
 * Requirements - [pipreqs](https://pypi.org/project/pipreqs/)
 * System - [os](https://docs.python.org/3/library/os.html)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
@@ -81,6 +82,7 @@ A categorized collection of useful Python libraries.
 * Caching - [cachetools](https://pypi.org/project/cachetools/)
 * Caching - [HermesCache](https://pypi.org/project/HermesCache/)
 * Caching - [filecache](https://pypi.org/project/filecache/)
+* Distributed - [ray](https://pypi.org/project/ray/)
 * JIT - [numba](https://pypi.org/project/numba/)
 * Measurement - [timeit](https://docs.python.org/3/library/timeit.html)
 * Python implementation - [PyPy](https://www.pypy.org/)
@@ -93,6 +95,7 @@ A categorized collection of useful Python libraries.
 
 ## Serialization
 
+* Native - [pickle](https://docs.python.org/3/library/pickle.html)
 * Readability - [json](https://docs.python.org/3/library/json.html)
 * Readability - [PyYAML](https://pypi.org/project/PyYAML/)
 * Performance - [msgpack](https://pypi.org/project/msgpack/)
@@ -126,6 +129,7 @@ A categorized collection of useful Python libraries.
 * Colors - [colorama](https://pypi.org/project/colorama/)
 * Figlets - [pyfiglet](https://pypi.org/project/pyfiglet/)
 * Progress bar - [tqdm](https://pypi.org/project/tqdm/)
+* Progress bar - [progressbar2](https://pypi.org/project/progressbar2/)
 * Table - [prettytable](https://pypi.org/project/prettytable/)
 * Toolkit - [cli-ui](https://pypi.org/project/cli-ui/)
 
