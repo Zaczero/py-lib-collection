@@ -22,6 +22,7 @@ A categorized collection of useful Python libraries.
 ## Ease of life
 
 * Containers - [collections](https://docs.python.org/3/library/collections.htmla)
+* Dataclasses - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
