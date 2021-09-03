@@ -38,6 +38,7 @@ A categorized collection of useful Python libraries.
 ## HTTP
 
 * Client - [requests](https://pypi.org/project/requests/)
+* Client - [requests-futures](https://pypi.org/project/requests-futures/)
 * Client - [urllib3](https://pypi.org/project/urllib3/)
 * Browser client - [selenium](https://pypi.org/project/selenium/)
 * Browser client - [pyppeteer](https://pypi.org/project/pyppeteer/)
@@ -138,3 +139,8 @@ A categorized collection of useful Python libraries.
 
 * Toolkit - [PyQt6](https://pypi.org/project/PyQt6/)
 * Toolkit - [PyQt5](https://pypi.org/project/PyQt5/)
+
+## Web 3.0
+
+* All-in-one - [web3](https://pypi.org/project/web3/)
+* Key management - [eth-keys](https://pypi.org/project/eth-keys/)
