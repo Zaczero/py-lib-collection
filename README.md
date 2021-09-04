@@ -22,6 +22,7 @@ A categorized collection of useful Python libraries.
 ## Ease of life
 
 * Containers - [collections](https://docs.python.org/3/library/collections.htmla)
+* Copy - [copy](https://docs.python.org/3/library/copy.html)
 * Dataclasses - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
@@ -118,6 +119,7 @@ A categorized collection of useful Python libraries.
 * Date - [pendulum](https://pypi.org/project/pendulum/)
 * Date - [arrow](https://pypi.org/project/arrow/)
 * Date - [datetime](https://docs.python.org/3/library/datetime.html)
+* Synchronization - [ntplib](https://pypi.org/project/ntplib/)
 * Time - [time](https://docs.python.org/3/library/time.html)
 
 ## UX
