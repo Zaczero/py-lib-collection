@@ -21,9 +21,7 @@ A categorized collection of useful Python libraries.
 
 ## Ease of life
 
-* Containers - [collections](https://docs.python.org/3/library/collections.htmla)
 * Copy - [copy](https://docs.python.org/3/library/copy.html)
-* Dataclasses - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
@@ -80,6 +78,10 @@ A categorized collection of useful Python libraries.
 * Random - [random](https://docs.python.org/3/library/random.html)
 * Random - [secrets](https://docs.python.org/3/library/secrets.html)
 
+## Networking
+
+* Communication - [pyzmq](https://pypi.org/project/pyzmq/)
+
 ## Performance
 
 * Caching - [cachetools](https://pypi.org/project/cachetools/)
@@ -102,6 +104,15 @@ A categorized collection of useful Python libraries.
 * Readability - [json](https://docs.python.org/3/library/json.html)
 * Readability - [PyYAML](https://pypi.org/project/PyYAML/)
 * Performance - [msgpack](https://pypi.org/project/msgpack/)
+
+## Structures
+
+* Abstractions - [abc](https://docs.python.org/3/library/abc.html)
+* Containers - [collections](https://docs.python.org/3/library/collections.htmla)
+* Native - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
+* Utilities - [dacite](https://pypi.org/project/dacite/)
+* Validation - [attrs](https://pypi.org/project/attrs/)
+* Validation - [pydantic](https://pypi.org/project/pydantic/)
 
 ## Tests
 
@@ -145,4 +156,5 @@ A categorized collection of useful Python libraries.
 ## Web 3.0
 
 * All-in-one - [web3](https://pypi.org/project/web3/)
+* ABI processing - [eth-abi](https://pypi.org/project/eth-abi/)
 * Key management - [eth-keys](https://pypi.org/project/eth-keys/)
