@@ -5,6 +5,7 @@ A categorized collection of useful Python libraries.
 ## Asynchronous
 
 * IO - [asyncio](https://docs.python.org/3/library/asyncio.html)
+* Lock - [filelock](https://pypi.org/project/filelock/)
 * Scheduling - [schedule](https://pypi.org/project/schedule/)
 * Parallelism - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 * Parallelism - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
