@@ -33,6 +33,7 @@ A categorized collection of useful Python libraries.
 * Retry - [tenacity](https://pypi.org/project/tenacity/)
 * Requirements - [pipreqs](https://pypi.org/project/pipreqs/)
 * System - [os](https://docs.python.org/3/library/os.html)
+* Temporary email - [python-guerrillamail](https://pypi.org/project/python-guerrillamail/)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
 
 ## HTTP
@@ -78,6 +79,7 @@ A categorized collection of useful Python libraries.
 * Graphs - [networkx](https://pypi.org/project/networkx/)
 * Random - [random](https://docs.python.org/3/library/random.html)
 * Random - [secrets](https://docs.python.org/3/library/secrets.html)
+* Random - [uuid](https://docs.python.org/3/library/uuid.html)
 
 ## Networking
 
