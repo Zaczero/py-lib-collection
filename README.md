@@ -2,9 +2,16 @@
 
 A categorized collection of useful Python libraries.
 
+## API
+
+* Exchange - [python-binance](https://pypi.org/project/python-binance/)
+* News - [twint](https://pypi.org/project/twint/)
+
 ## Asynchronous
 
 * IO - [asyncio](https://docs.python.org/3/library/asyncio.html)
+* IO - [uvloop](https://pypi.org/project/uvloop/)
+* IO - [unsync](https://pypi.org/project/unsync/)
 * Lock - [filelock](https://pypi.org/project/filelock/)
 * Scheduling - [schedule](https://pypi.org/project/schedule/)
 * Parallelism - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
@@ -38,9 +45,9 @@ A categorized collection of useful Python libraries.
 
 ## HTTP
 
+* Client - [aiohttp](https://pypi.org/project/aiohttp/)
 * Client - [requests](https://pypi.org/project/requests/)
 * Client - [requests-futures](https://pypi.org/project/requests-futures/)
-* Client - [urllib3](https://pypi.org/project/urllib3/)
 * Browser client - [selenium](https://pypi.org/project/selenium/)
 * Browser client - [pyppeteer](https://pypi.org/project/pyppeteer/)
 * Parsing - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
