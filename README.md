@@ -33,6 +33,7 @@ A categorized collection of useful Python libraries.
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
+* Functions - [funcy](https://pypi.org/project/funcy/)
 * Keyboard - [keyboard](https://pypi.org/project/keyboard/)
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
