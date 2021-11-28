@@ -96,12 +96,13 @@ A categorized collection of useful Python libraries.
 
 ## Performance
 
+* Benchmark - [timeit](https://docs.python.org/3/library/timeit.html)
 * Caching - [cachetools](https://pypi.org/project/cachetools/)
 * Caching - [HermesCache](https://pypi.org/project/HermesCache/)
 * Caching - [filecache](https://pypi.org/project/filecache/)
-* Distributed - [ray](https://pypi.org/project/ray/)
+* Distributed computing - [ray](https://pypi.org/project/ray/)
 * JIT - [numba](https://pypi.org/project/numba/)
-* Measurement - [timeit](https://docs.python.org/3/library/timeit.html)
+* Profiler - [yappi](https://pypi.org/project/yappi/)
 * Python implementation - [PyPy](https://www.pypy.org/)
 
 ## Plotting
