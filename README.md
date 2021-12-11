@@ -35,6 +35,8 @@ A categorized collection of useful Python libraries.
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
 * Functions - [funcy](https://pypi.org/project/funcy/)
+* Git - [GitPython](https://pypi.org/project/GitPython/)
+* Git - [PyDriller](https://pypi.org/project/PyDriller/)
 * Keyboard - [keyboard](https://pypi.org/project/keyboard/)
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
@@ -43,6 +45,7 @@ A categorized collection of useful Python libraries.
 * Retry - [tenacity](https://pypi.org/project/tenacity/)
 * Requirements - [pipreqs](https://pypi.org/project/pipreqs/)
 * System - [os](https://docs.python.org/3/library/os.html)
+* System - [shutil](https://docs.python.org/3/library/shutil.html)
 * Temporary email - [python-guerrillamail](https://pypi.org/project/python-guerrillamail/)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
 
@@ -145,6 +148,7 @@ A categorized collection of useful Python libraries.
 * Date - [pendulum](https://pypi.org/project/pendulum/)
 * Date - [arrow](https://pypi.org/project/arrow/)
 * Date - [datetime](https://docs.python.org/3/library/datetime.html)
+* Parsing - [parsedatetime](https://pypi.org/project/parsedatetime/)
 * Synchronization - [ntplib](https://pypi.org/project/ntplib/)
 * Time - [time](https://docs.python.org/3/library/time.html)
 
