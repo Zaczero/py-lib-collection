@@ -30,6 +30,7 @@ A categorized collection of useful Python libraries.
 ## Ease of life
 
 * Copy - [copy](https://docs.python.org/3/library/copy.html)
+* Encoding - [codecs](https://docs.python.org/3/library/codecs.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
@@ -38,6 +39,7 @@ A categorized collection of useful Python libraries.
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
 * Paths - [pathlib](https://docs.python.org/3/library/pathlib.html)
+* PDF - [pdfminer.six](https://pypi.org/project/pdfminer.six/)
 * Retry - [tenacity](https://pypi.org/project/tenacity/)
 * Requirements - [pipreqs](https://pypi.org/project/pipreqs/)
 * System - [os](https://docs.python.org/3/library/os.html)
