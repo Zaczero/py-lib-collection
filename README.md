@@ -33,6 +33,7 @@ A categorized collection of useful Python libraries.
 * Encoding - [codecs](https://docs.python.org/3/library/codecs.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
+* Exceptions - [warnings](https://docs.python.org/3/library/warnings.html)
 * Functions - [functools](https://docs.python.org/3/library/functools.html)
 * Functions - [funcy](https://pypi.org/project/funcy/)
 * Git - [GitPython](https://pypi.org/project/GitPython/)
