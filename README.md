@@ -30,6 +30,7 @@ A categorized collection of useful Python libraries.
 ## Ease of life
 
 * Copy - [copy](https://docs.python.org/3/library/copy.html)
+* Decorator - [decorator](https://pypi.org/project/decorator/)
 * Encoding - [codecs](https://docs.python.org/3/library/codecs.html)
 * Environment variables - [python-dotenv](https://pypi.org/project/python-dotenv/)
 * Exceptions - [traceback](https://docs.python.org/3/library/traceback.html)
@@ -166,7 +167,6 @@ A categorized collection of useful Python libraries.
 * Progress bar - [tqdm](https://pypi.org/project/tqdm/)
 * Progress bar - [progressbar2](https://pypi.org/project/progressbar2/)
 * Table - [prettytable](https://pypi.org/project/prettytable/)
-* Toolkit - [cli-ui](https://pypi.org/project/cli-ui/)
 
 ### GUI
 
