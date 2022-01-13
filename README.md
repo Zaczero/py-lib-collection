@@ -161,6 +161,7 @@ A categorized collection of useful Python libraries.
 * Argument parsing - [fire](https://pypi.org/project/fire/)
 * Argument parsing - [argh](https://pypi.org/project/argh/)
 * Argument parsing - [argparse](https://docs.python.org/3/library/argparse.html)
+* Colors - [sty](https://pypi.org/project/sty/)
 * Colors - [colored](https://pypi.org/project/colored/)
 * Colors - [colorama](https://pypi.org/project/colorama/)
 * Figlets - [pyfiglet](https://pypi.org/project/pyfiglet/)
