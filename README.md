@@ -76,14 +76,17 @@ A categorized collection of useful Python libraries.
 ## Machine learning
 
 * All-in-one - [scikit-learn](https://pypi.org/project/scikit-learn/)
+* All-in-one - [scipy](https://pypi.org/project/scipy/)
 * All-in-one - [tensorflow](https://pypi.org/project/tensorflow/)
 * All-in-one - [opencv-python](https://pypi.org/project/opencv-python/)
+* Advanced model - [lightgbm](https://pypi.org/project/lightgbm/)
 * Advanced model - [xgboost](https://pypi.org/project/xgboost/)
 * Natural language - [spacy](https://pypi.org/project/spacy/)
 * Natural language - [nltk](https://pypi.org/project/nltk/)
 * Natural language - [gensim](https://pypi.org/project/gensim/)
 * Hyper-tuning - [hyperopt](https://pypi.org/project/hyperopt/)
 * Hyper-tuning - [TPOT](https://pypi.org/project/TPOT/)
+* Datasets - [rdatasets](https://pypi.org/project/rdatasets/)
 * Missing data - [autoimpute](https://pypi.org/project/autoimpute/)
 
 ## Math
@@ -114,6 +117,7 @@ A categorized collection of useful Python libraries.
 
 ## Plotting
 
+* All-in-one - [plotly](https://pypi.org/project/plotly/)
 * All-in-one - [seaborn](https://pypi.org/project/seaborn/)
 * All-in-one - [matplotlib](https://pypi.org/project/matplotlib/)
 * Missing data - [missingno](https://pypi.org/project/missingno/)
