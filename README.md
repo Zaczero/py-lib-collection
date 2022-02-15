@@ -25,7 +25,10 @@ A categorized collection of useful Python libraries.
 
 ## Compression
 
-* Format - [ZipFile](https://docs.python.org/3/library/zipfile.html)
+* Format - [bz2](https://docs.python.org/3/library/bz2.html)
+* Format - [tarfile](https://docs.python.org/3/library/tarfile.html)
+* Format - [zipfile](https://docs.python.org/3/library/zipfile.html)
+* Format - [Brotli](https://pypi.org/project/Brotli/)
 
 ## Ease of life
 
