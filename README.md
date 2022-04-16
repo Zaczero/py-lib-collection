@@ -102,6 +102,7 @@ A categorized collection of useful Python libraries.
 * Random - [random](https://docs.python.org/3/library/random.html)
 * Random - [secrets](https://docs.python.org/3/library/secrets.html)
 * Random - [uuid](https://docs.python.org/3/library/uuid.html)
+* Search - [bisect](https://docs.python.org/3/library/bisect.html)
 
 ## Networking
 
