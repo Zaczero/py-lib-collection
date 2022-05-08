@@ -68,6 +68,8 @@ A categorized collection of useful Python libraries.
 * Scraping - [Scrapy](https://pypi.org/project/Scrapy/)
 * Web app - [Django](https://pypi.org/project/Django/)
 * Web app - [Flask](https://pypi.org/project/Flask/)
+* All-in-one - [Werkzeug](https://pypi.org/project/Werkzeug/)
+* Authentication - [Flask-HTTPAuth](https://pypi.org/project/Flask-HTTPAuth/)
 
 ## Image
 
