@@ -85,6 +85,7 @@ A categorized collection of useful Python libraries.
 * All-in-one - [scipy](https://pypi.org/project/scipy/)
 * All-in-one - [tensorflow](https://pypi.org/project/tensorflow/)
 * All-in-one - [opencv-python](https://pypi.org/project/opencv-python/)
+* All-in-one - [mediapipe](https://pypi.org/project/mediapipe/)
 * Advanced model - [lightgbm](https://pypi.org/project/lightgbm/)
 * Advanced model - [xgboost](https://pypi.org/project/xgboost/)
 * Natural language - [spacy](https://pypi.org/project/spacy/)
