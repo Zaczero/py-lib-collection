@@ -91,6 +91,7 @@ A categorized collection of useful Python libraries.
 * Natural language - [spacy](https://pypi.org/project/spacy/)
 * Natural language - [nltk](https://pypi.org/project/nltk/)
 * Natural language - [gensim](https://pypi.org/project/gensim/)
+* Natural language - [textstat](https://pypi.org/project/textstat/)
 * Hyper-tuning - [hyperopt](https://pypi.org/project/hyperopt/)
 * Hyper-tuning - [TPOT](https://pypi.org/project/TPOT/)
 * Datasets - [rdatasets](https://pypi.org/project/rdatasets/)
@@ -131,6 +132,7 @@ A categorized collection of useful Python libraries.
 * All-in-one - [seaborn](https://pypi.org/project/seaborn/)
 * All-in-one - [matplotlib](https://pypi.org/project/matplotlib/)
 * Missing data - [missingno](https://pypi.org/project/missingno/)
+* Wordcloud - [stylecloud](https://pypi.org/project/stylecloud/)
 
 ## Serialization
 
