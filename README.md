@@ -91,6 +91,7 @@ A categorized collection of useful Python libraries.
 * Natural language - [spacy](https://pypi.org/project/spacy/)
 * Natural language - [nltk](https://pypi.org/project/nltk/)
 * Natural language - [gensim](https://pypi.org/project/gensim/)
+* Natural language - [fasttext](https://pypi.org/project/fasttext/)
 * Natural language - [textstat](https://pypi.org/project/textstat/)
 * Hyper-tuning - [hyperopt](https://pypi.org/project/hyperopt/)
 * Hyper-tuning - [TPOT](https://pypi.org/project/TPOT/)
