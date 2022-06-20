@@ -4,8 +4,9 @@ A categorized collection of useful Python libraries.
 
 ## API
 
-* Exchange - [python-binance](https://pypi.org/project/python-binance/)
-* News - [twint](https://pypi.org/project/twint/)
+* Binance - [python-binance](https://pypi.org/project/python-binance/)
+* Telegram - [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
+* Twitter - [twint](https://pypi.org/project/twint/)
 
 ## Asynchronous
 
