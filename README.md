@@ -57,6 +57,7 @@ A categorized collection of useful Python libraries.
 
 ## HTTP
 
+* Client - [httpx](https://pypi.org/project/httpx/)
 * Client - [aiohttp](https://pypi.org/project/aiohttp/)
 * Client - [requests](https://pypi.org/project/requests/)
 * Client - [requests-futures](https://pypi.org/project/requests-futures/)
@@ -143,6 +144,7 @@ A categorized collection of useful Python libraries.
 * Readability - [PyYAML](https://pypi.org/project/PyYAML/)
 * Parsing - [xmltodict](https://pypi.org/project/xmltodict/)
 * Performance - [msgpack](https://pypi.org/project/msgpack/)
+* Security - [itsdangerous](https://pypi.org/project/itsdangerous/)
 
 ## Structures
 
