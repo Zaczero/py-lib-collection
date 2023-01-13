@@ -54,6 +54,7 @@ A categorized collection of useful Python libraries.
 * System - [shutil](https://docs.python.org/3/library/shutil.html)
 * Temporary email - [python-guerrillamail](https://pypi.org/project/python-guerrillamail/)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
+* Utilities - [werkzeug](https://pypi.org/project/werkzeug/)
 
 ## HTTP
 
