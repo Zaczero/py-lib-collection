@@ -142,6 +142,7 @@ A categorized collection of useful Python libraries.
 
 * Native - [pickle](https://docs.python.org/3/library/pickle.html)
 * Readability - [json](https://docs.python.org/3/library/json.html)
+* Readability - [orjson](https://pypi.org/project/orjson/)
 * Readability - [PyYAML](https://pypi.org/project/PyYAML/)
 * Parsing - [xmltodict](https://pypi.org/project/xmltodict/)
 * Performance - [msgpack](https://pypi.org/project/msgpack/)
