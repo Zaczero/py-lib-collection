@@ -107,7 +107,7 @@ A categorized collection of useful Python libraries.
 * Structured data - [pandas](https://pypi.org/project/pandas/)
 * Structured data - [pyjanitor](https://pypi.org/project/pyjanitor/)
 * Cryptography - [hashlib](https://docs.python.org/3/library/hashlib.html)
-* Cryptography - [pycrypto](https://pypi.org/project/pycrypto/)
+* Cryptography - [pycryptodome](https://pypi.org/project/pycryptodome/)
 * Cryptography - [imohash](https://pypi.org/project/imohash/)
 * Graphs - [networkx](https://pypi.org/project/networkx/)
 * Random - [random](https://docs.python.org/3/library/random.html)
