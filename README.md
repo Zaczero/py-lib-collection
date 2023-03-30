@@ -98,6 +98,7 @@ A categorized collection of useful Python libraries.
 * Natural language - [textstat](https://pypi.org/project/textstat/)
 * Hyper-tuning - [hyperopt](https://pypi.org/project/hyperopt/)
 * Hyper-tuning - [TPOT](https://pypi.org/project/TPOT/)
+* Cross-validation - [tscv](https://pypi.org/project/tscv/)
 * Datasets - [rdatasets](https://pypi.org/project/rdatasets/)
 * Missing data - [autoimpute](https://pypi.org/project/autoimpute/)
 
