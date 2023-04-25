@@ -176,6 +176,7 @@ A categorized collection of useful Python libraries.
 * Date - [pendulum](https://pypi.org/project/pendulum/)
 * Date - [arrow](https://pypi.org/project/arrow/)
 * Date - [datetime](https://docs.python.org/3/library/datetime.html)
+* Format - [humanize](https://pypi.org/project/humanize/)
 * Format - [timeago](https://pypi.org/project/timeago/)
 * Parsing - [parsedatetime](https://pypi.org/project/parsedatetime/)
 * Synchronization - [ntplib](https://pypi.org/project/ntplib/)
