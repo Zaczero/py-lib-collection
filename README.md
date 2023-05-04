@@ -106,6 +106,7 @@ A categorized collection of useful Python libraries.
 
 ## Math
 
+* Accelerated - [dask](https://pypi.org/project/dask/)
 * Arrays - [numpy](https://pypi.org/project/numpy/)
 * Structured data - [pandas](https://pypi.org/project/pandas/)
 * Structured data - [pyjanitor](https://pypi.org/project/pyjanitor/)
