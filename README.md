@@ -5,6 +5,7 @@ A categorized collection of useful Python libraries.
 ## API
 
 * Binance - [python-binance](https://pypi.org/project/python-binance/)
+* OpenAI - [openai](https://pypi.org/project/openai/)
 * Telegram - [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
 * Twitter - [twint](https://pypi.org/project/twint/)
 
@@ -55,6 +56,7 @@ A categorized collection of useful Python libraries.
 * Sanitize - [python-slugify](https://pypi.org/project/python-slugify/)
 * System - [os](https://docs.python.org/3/library/os.html)
 * System - [shutil](https://docs.python.org/3/library/shutil.html)
+* Templating - [jinja2](https://pypi.org/project/Jinja2/)
 * Temporary email - [python-guerrillamail](https://pypi.org/project/python-guerrillamail/)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
 * Utilities - [werkzeug](https://pypi.org/project/werkzeug/)
@@ -62,12 +64,11 @@ A categorized collection of useful Python libraries.
 ## HTTP
 
 * Client - [httpx](https://pypi.org/project/httpx/)
-* Client - [aiohttp](https://pypi.org/project/aiohttp/)
 * Client - [requests](https://pypi.org/project/requests/)
-* Client - [requests-futures](https://pypi.org/project/requests-futures/)
 * Web driver - [selenium](https://pypi.org/project/selenium/)
 * Web driver - [pyppeteer](https://pypi.org/project/pyppeteer/)
 * Web driver installer - [chromedriver-autoinstaller](https://pypi.org/project/chromedriver-autoinstaller/)
+* OAuth - [Authlib](https://pypi.org/project/Authlib/)
 * Parsing - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 * Parsing - [lxml](https://pypi.org/project/lxml/)
 * Parsing - [idna](https://pypi.org/project/idna/)
@@ -157,6 +158,7 @@ A categorized collection of useful Python libraries.
 
 * Abstractions - [abc](https://docs.python.org/3/library/abc.html)
 * Containers - [collections](https://docs.python.org/3/library/collections.htmla)
+* Indexing - [Rtree](https://pypi.org/project/Rtree/)
 * Native - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 * Utilities - [dacite](https://pypi.org/project/dacite/)
 * Validation - [attrs](https://pypi.org/project/attrs/)
@@ -170,6 +172,7 @@ A categorized collection of useful Python libraries.
 
 * All-in-one - [string](https://docs.python.org/3/library/string.html)
 * Characterset - [chardet](https://pypi.org/project/chardet/)
+* Fuzzy search - [rapidfuzz](https://pypi.org/project/rapidfuzz/)
 * Processing - [re](https://docs.python.org/3/library/re.html)
 * Processing - [flashtext](https://pypi.org/project/flashtext/)
 
