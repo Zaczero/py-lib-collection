@@ -199,7 +199,7 @@ A categorized collection of useful Python libraries.
 * Colors - [colorama](https://pypi.org/project/colorama/)
 * Figlets - [pyfiglet](https://pypi.org/project/pyfiglet/)
 * Progress bar - [tqdm](https://pypi.org/project/tqdm/)
-* Progress bar - [progressbar2](https://pypi.org/project/progressbar2/)
+* Progress bar - [progress](https://pypi.org/project/progress/)
 * Table - [prettytable](https://pypi.org/project/prettytable/)
 
 ### GUI
