@@ -33,6 +33,12 @@ A categorized collection of useful Python libraries.
 * Format - [zipfile](https://docs.python.org/3/library/zipfile.html)
 * Format - [Brotli](https://pypi.org/project/Brotli/)
 
+## Data store
+
+* Mongo - [motor](https://pypi.org/project/motor/)
+* Mongo - [pymongo](https://pypi.org/project/pymongo/)
+* JSON - [tinydb](https://pypi.org/project/tinydb/)
+
 ## Ease of life
 
 * Copy - [copy](https://docs.python.org/3/library/copy.html)
@@ -45,6 +51,9 @@ A categorized collection of useful Python libraries.
 * Functions - [funcy](https://pypi.org/project/funcy/)
 * Git - [GitPython](https://pypi.org/project/GitPython/)
 * Git - [PyDriller](https://pypi.org/project/PyDriller/)
+* Geo - [shapely](https://pypi.org/project/shapely/)
+* Geo - [pyproj](https://pypi.org/project/pyproj/)
+* Geo - [timezonefinder](https://pypi.org/project/timezonefinder/)
 * Keyboard - [keyboard](https://pypi.org/project/keyboard/)
 * Media conversion - [ffmpeg-python](https://pypi.org/project/ffmpeg-python/)
 * Iterating - [itertools](https://docs.python.org/3/library/itertools.html)
