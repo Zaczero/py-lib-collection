@@ -69,6 +69,7 @@ A categorized collection of useful Python libraries.
 * Templating - [jinja2](https://pypi.org/project/Jinja2/)
 * Temporary email - [python-guerrillamail](https://pypi.org/project/python-guerrillamail/)
 * Type hinting - [typing](https://docs.python.org/3/library/typing.html)
+* Type identification - [python-magic](https://pypi.org/project/python-magic/)
 * Utilities - [werkzeug](https://pypi.org/project/werkzeug/)
 
 ## HTTP
