@@ -12,9 +12,9 @@ A categorized collection of useful Python libraries.
 ## Asynchronous
 
 * Cache - [asyncache](https://pypi.org/project/asyncache/)
+* IO - [anyio](https://pypi.org/project/anyio/)
+* IO - [trio](https://pypi.org/project/trio/)
 * IO - [asyncio](https://docs.python.org/3/library/asyncio.html)
-* IO - [uvloop](https://pypi.org/project/uvloop/)
-* IO - [unsync](https://pypi.org/project/unsync/)
 * Lock - [filelock](https://pypi.org/project/filelock/)
 * Scheduling - [schedule](https://pypi.org/project/schedule/)
 * Parallelism - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
